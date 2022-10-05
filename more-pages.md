@@ -1,6 +1,6 @@
 ## 多页文档 <!-- {docsify-ignore} -->
 
-如果需要创建多个页面，或者需要多级路由的网站，在 docsify 里也能很容易的实现。例如创建一个 guide.md 文件，那么对应的路由就是 /#/guide。
+我们当然可以把文档内容全部写在 README.md 文件里，但是这样会造成文件内容过多不好维护的问题，多页文档就能很好的解决这个问题。如果需要创建多个页面，或者需要多级路由的网站，在 docsify 里也能很容易的实现。例如创建一个 guide.md 文件，那么对应的路由就是 /#/guide。
 
 假设你的目录结构如下：
 
@@ -53,7 +53,6 @@ docs/zh-cn/guide.md   => http://domain.com/zh-cn/guide
   - [导航栏](navbar.md)
   - [封面](cover.md)
 - 其他
-  - [兼容 Vue](about-vue.md)
   - [部署](deploy.md)
   - [参考资料](reference.md)
 

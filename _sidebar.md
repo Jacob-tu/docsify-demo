@@ -6,6 +6,5 @@
   - [导航栏](navbar.md)
   - [封面](cover.md)
 - 其他
-  - [兼容 Vue](about-vue.md)
   - [部署](deploy.md)
   - [参考资料](reference.md)
